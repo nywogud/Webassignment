@@ -1,0 +1,265 @@
+.box1{
+    display : block;
+    width: 930px;
+    height: 310px;
+}
+
+.box2{
+    display: inline-block;
+    border: solid 1px gray;
+    width: 300px;
+    height: 300px;
+    margin: 2px;
+}
+
+#wrap_a{
+    position: relative;
+}
+
+.a1{
+    position :absolute;
+    width: 90px;
+    height: 90px;
+    margin: 2px;
+    background-color: rgb(98, 97, 97);
+}
+
+#crd_a_1{top:2px; left:2px;}
+#crd_a_2{top:2px; left: 100px;}
+#crd_a_3{top:2px; left: 200px;}
+
+#crd_a_4{top:100px; left: 2px;}
+#crd_a_5{top:100px; left: 100px;}
+#crd_a_6{top:100px; left: 200px;}
+
+#crd_a_7{top:200px; left: 2px;}
+#crd_a_8{top:200px; left: 100px;}
+#crd_a_9{top:200px; left: 200px;}
+
+.a2_1{
+    position: absolute;
+    width: 290px;
+    height: 190px;
+    margin: 2px;
+    background-color: rgb(98, 97, 97);
+}
+
+.a2_2{
+    position :absolute;
+    width: 90px;
+    height: 90px;
+    margin: 2px;
+    background-color: rgb(221, 214, 214);
+}
+
+#crd_a2_1{top:2px; left:2px;}
+#crd_a2_2{top:200px; left:2px;}
+
+.a3_1{
+    position: absolute;
+    width: 190px;
+    height: 90px;
+    margin: 2px;
+    background-color: rgb(98, 97, 97);
+}
+
+.a3_2{
+     position :absolute;
+     width: 90px;
+     height: 90px;
+     margin: 2px;
+     background-color: rgb(98, 97, 97);
+}
+
+.a3_3{
+ position :absolute;
+    width: 90px;
+    height: 90px;
+    margin: 2px;
+    background-color: rgb(221, 214, 214);
+}
+
+#crd_a3_1{
+    top: 2px; left: 2px;
+}
+
+#crd_a3_2{
+    top: 2px; left: 200px;
+}
+
+#crd_a3_3{
+    top: 200px; left: 200px;
+}
+
+.a4_1{
+    position: absolute;
+    width: 290px;
+    height: 90px;
+    background-color: rgb(98, 97, 97);
+}
+
+.a4_2{
+    position: absolute;
+    width: 90px;
+    height: 190px;
+    margin: 2px;
+    background-color: rgb(221, 214, 214);
+}
+
+#crd_a4_1{
+    top: 2px; left: 2px;
+}
+
+#crd_a4_2{
+    top: 100px; left: 2px;
+}
+
+#crd_a4_3{
+    top: 100px; left: 100px;
+}
+
+#crd_a4_4{
+    top: 100px; left: 200px;
+}
+
+.a5_1{
+     position :absolute;
+     width: 90px;
+     height: 90px;
+     margin: 2px;
+     background-color: rgb(98, 97, 97);
+}
+
+.a5_2{
+     position :absolute;
+     width: 90px;
+     height: 90px;
+     margin: 2px;
+     background-color: rgb(221, 214, 214);
+}
+
+#crd_a5_1{top:2px; left:2px;}
+#crd_a5_2{top:2px; left: 100px;}
+#crd_a5_3{top:2px; left: 200px;}
+
+#crd_a5_4{top:100px; left: 2px;}
+#crd_a5_5{top:100px; left: 100px;}
+#crd_a5_6{top:100px; left: 200px;}
+
+#crd_a5_7{top:200px; left: 200px;}
+
+.a6_1{
+    position: absolute;
+    width: 190px;
+    height: 190px;
+    margin: 2px;
+    background-color: rgb(98, 97, 97);
+}
+
+.a6_2{
+     position: absolute;
+     width: 90px;
+     height: 90px;
+     margin: 2px;
+     background-color: rgb(221, 214, 214);
+}
+
+#crd_a6_1{top: 100px; left: 2px;}
+#crd_a6_2{top:100px; left: 200px;}
+
+.a7_1{
+    position: absolute;
+    width: 190px;
+    height: 90px;
+    margin: 2px;
+    background-color: rgb(98, 97, 97);
+}
+
+.a7_2{
+     position: absolute;
+     width: 90px;
+     height: 90px;
+     margin: 2px;
+     background-color: rgb(98, 97, 97);
+}
+
+.a7_3{
+ position: absolute;
+     width: 190px;
+     height: 190px;
+     margin: 2px;
+     background-color: rgb(221, 214, 214);
+}
+
+.a7_4{
+ position: absolute;
+     width: 90px;
+     height: 190px;
+     margin: 2px;
+     background-color: rgb(221, 214, 214);
+}
+
+#crd_a7_1{top: 2px; left: 2px;}
+#crd_a7_2{top: 2px; left: 200px;}
+#crd_a7_3{top: 100px; left: 2px;}
+#crd_a7_4{top: 100px; left: 200px;}
+
+.a8_1{
+    position: absolute;
+    width: 90px;
+    height: 190px;
+    margin: 2px;
+    background-color: rgb(98, 97, 97);
+}
+
+.a8_2{
+    position: absolute;
+    width: 190px;
+    height: 90px;
+    margin: 2px;
+    background-color: rgb(221, 214, 214);
+}
+
+.a8_3{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    margin: 2px;
+    background-color: rgb(221, 214, 214);
+}
+
+#crd_a8_1{top: 2px; left: 2px;}
+#crd_a8_2{top: 2px; left: 100px;}
+#crd_a8_3{top: 2px; left: 200px;}
+#crd_a8_4{top: 200px; left: 2px;}
+#crd_a8_5{top: 200px; left: 200px;}
+
+.a9_1{
+    position: absolute;
+    width: 190px;
+    height: 190px;
+    margin: 2px;
+    background-color: rgb(98, 97, 97);
+}
+
+.a9_2{
+     position: absolute;
+     width: 90px;
+     height: 190px;
+     margin: 2px;
+     background-color: rgb(221, 214, 214);
+}
+
+.a9_3{
+     position: absolute;
+     width: 90px;
+     height: 90px;
+     margin: 2px;
+     background-color: rgb(221, 214, 214);
+}
+
+#crd_a9_1{top: 2px; left: 2px;}
+#crd_a9_2{top: 100px; left: 200px;}
+#crd_a9_3{top: 200px; left: 100px;}
+
+
